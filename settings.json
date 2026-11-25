@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "24/7",
+    "username": "Bedhua",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "bhaisexual.mcsh.gg",
+    "ip": "bh11.minekeep.gg",
     "port": 25565,
     "version": "1.21.1"
   },
